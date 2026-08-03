@@ -1,0 +1,17 @@
+/**
+ * Problem: LeetCode 387 - First Unique Character in a String
+ * Topic: Strings
+ * Difficulty: Easy
+ *
+ * Pattern: Frequency Array
+ *
+ * Approach:
+ * - Count the frequency of every character.
+ * - Traverse the string again.
+ * - Return the index of the first character whose frequency is 1.
+ *
+ * Time Complexity: O(n)
+ * Space Complexity: O(1)
+ *
+ * Author: Vinay
+ */
